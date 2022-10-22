@@ -59,8 +59,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 80vh;
-    margin: 100px 0px;
+    margin: 250px 0px;
 }
 .dark-toggle img {
     width: 20px;
